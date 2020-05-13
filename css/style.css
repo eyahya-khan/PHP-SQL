@@ -1,0 +1,30 @@
+
+#bkgdImg img {
+    margin-top: 10px;
+    width: 100%;
+    height: 300px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.lgnForm p {
+    text-align: center;
+
+}
+
+legend {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.error_msg {
+    text-align: center;
+}
+
+.footerBtn {
+    text-align: center;
+    background-color: #add8e6;
+    height: 35px;
+}
